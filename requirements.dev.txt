@@ -1,0 +1,19 @@
+# linters and formatters
+
+bandit
+black
+flake8 < 5
+flake8-builtins
+flake8-comprehensions
+flake8-eradicate
+flake8-implicit-str-concat
+flake8-length
+flake8-print
+flake8-pytest-style
+flake8-todos
+flake8-type-checking
+mypy
+pep8
+pydocstyle
+pep8-naming
+vulture

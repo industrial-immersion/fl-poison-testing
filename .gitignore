@@ -1,0 +1,11 @@
+env/
+data/
+
+*.tar.gz
+*.zip
+*.npz
+
+__pycache__/
+
+*.yml
+*.json
